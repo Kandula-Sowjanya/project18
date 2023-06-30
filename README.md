@@ -8,7 +8,7 @@ This is a web based application developed for Health related website in India.
 *Project Link* -https://gentle-beach-0144bf900.3.azurestaticapps.net/
 
 
-*Demo Video* -  https://youtu.be/bePjQaW3o6w
+*Demo Video* -  https://youtu.be/4_e6qQ6dRsA
 
 ## AZure technologies used for Project
 
@@ -25,7 +25,7 @@ This is a web based application developed for Health related website in India.
 - Included the feedback Survey form to increase the scope of improvement 
 
 
-## Screenshots 📸![image](https://github.com/Kandula-Sowjanya/project18/assets/129253854/4566dda8-60b0-48db-9f2a-a509a29bb36b)
+## Screenshots 📸![Screenshot (31)](https://github.com/Kandula-Sowjanya/project18/assets/129253854/62d0eb17-23c2-43e2-9e5b-652f7832ab10)
 
 
 
