@@ -19,7 +19,9 @@ This is a web based application developed for Health related website in India.
 - User is able to book a table through the website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots 📸![Screenshot (23)](https://github.com/Kandula-Sowjanya/project18/assets/129253854/a5017214-3103-4f3c-b942-f9c66fc03988)
+
+## Screenshots 📸![image](https://github.com/Kandula-Sowjanya/project18/assets/129253854/4566dda8-60b0-48db-9f2a-a509a29bb36b)
+
 
 
 ### Home page - 
